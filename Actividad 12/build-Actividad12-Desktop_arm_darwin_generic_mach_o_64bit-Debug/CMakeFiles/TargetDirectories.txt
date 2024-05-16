@@ -1,0 +1,8 @@
+/Users/sergionvte/Documents/School/2024A/SemAlgoritmia/Actividad 12/build-Actividad12-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Actividad12.dir
+/Users/sergionvte/Documents/School/2024A/SemAlgoritmia/Actividad 12/build-Actividad12-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/sergionvte/Documents/School/2024A/SemAlgoritmia/Actividad 12/build-Actividad12-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/sergionvte/Documents/School/2024A/SemAlgoritmia/Actividad 12/build-Actividad12-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/list_install_components.dir
+/Users/sergionvte/Documents/School/2024A/SemAlgoritmia/Actividad 12/build-Actividad12-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install.dir
+/Users/sergionvte/Documents/School/2024A/SemAlgoritmia/Actividad 12/build-Actividad12-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/local.dir
+/Users/sergionvte/Documents/School/2024A/SemAlgoritmia/Actividad 12/build-Actividad12-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/install/strip.dir
+/Users/sergionvte/Documents/School/2024A/SemAlgoritmia/Actividad 12/build-Actividad12-Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Actividad12_autogen.dir
